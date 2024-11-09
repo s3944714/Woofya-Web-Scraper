@@ -1,0 +1,897 @@
+[
+    {
+        "Location Name": "Princes Park, Carlton North",
+        "Description": "A large park with off-leash areas, ideal for dog walking and socialization.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Albert Park, South Melbourne",
+        "Description": "A scenic park with off-leash zones and beautiful walking paths.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Fawkner Park, South Yarra",
+        "Description": "Offers multiple off-leash areas for dogs, with wide-open spaces.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Yarra Bend Park, Fairfield",
+        "Description": "One of the largest parks in Melbourne, featuring numerous off-leash zones.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Edinburgh Gardens, Fitzroy North",
+        "Description": "A spacious park with off-leash areas perfect for dogs to run and play.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Darebin Parklands, Alphington",
+        "Description": "A park with off-leash sections and natural walking trails.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Royal Park, Parkville",
+        "Description": "Several off-leash areas make it a great spot for dogs to roam freely.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Burnley Park, Burnley",
+        "Description": "Popular for dog owners with large off-leash areas.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Aranga Reserve, Donvale",
+        "Description": "Quiet park surrounded by bushland with off-leash areas.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Gasworks Arts Park, Albert Park",
+        "Description": "Dog-friendly park with off-leash areas in a cultural precinct.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Clayton Reserve, North Melbourne",
+        "Description": "Offers a small but great off-leash dog park for socializing.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Elwood Beach, Elwood",
+        "Description": "Off-leash times allow dogs to run and swim freely.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Caulfield Park, Caulfield North",
+        "Description": "Features off-leash areas with plenty of open space and walking paths.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Brighton Dog Beach, Brighton",
+        "Description": "An off-leash beach where dogs can swim and enjoy the sand.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Wattle Park, Burwood",
+        "Description": "Offers off-leash zones for dogs, along with scenic walking trails.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Merri Creek Trail, Clifton Hill",
+        "Description": "An off-leash trail that offers scenic views for both dogs and owners.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Hays Paddock, Kew East",
+        "Description": "An off-leash park with open fields and walking tracks.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "St Kilda Botanical Gardens, St Kilda",
+        "Description": "Dog-friendly with off-leash zones and lovely gardens to explore.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Footscray Park, Footscray",
+        "Description": "A large off-leash park with plenty of open space for dogs.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Malvern Public Gardens, Malvern",
+        "Description": "Dog-friendly with dedicated off-leash areas and walking paths.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Balwyn Park, Balwyn",
+        "Description": "A quiet off-leash park with shaded areas and open fields.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Altona Dog Beach, Altona",
+        "Description": "One of the best off-leash beaches in Melbourne for dogs to enjoy the water.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Lillydale Lake Park, Lilydale",
+        "Description": "Offers off-leash areas with walking trails around a lake.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Wattle Glen Reserve, Wattle Glen",
+        "Description": "A dog-friendly park with off-leash sections and natural bushland surroundings.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Bundoora Park, Bundoora",
+        "Description": "An expansive park with designated off-leash areas and scenic walks.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Quarry Park, Footscray",
+        "Description": "Popular off-leash park with amazing views and open space for dogs to run freely.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Newport Lakes Reserve, Newport",
+        "Description": "A natural bushland reserve with off-leash areas for dogs.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "St Kilda Beach, St Kilda",
+        "Description": "A dog-friendly beach with designated off-leash areas.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Victoria Park, Abbotsford",
+        "Description": "Offers a large off-leash area perfect for dog owners and socializing.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Fitzroy Gardens, East Melbourne",
+        "Description": "Dog-friendly park with sections for off-leash play and scenic paths.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Royal Botanic Gardens, Cranbourne",
+        "Description": "While dogs must be on-leash, this park offers beautiful trails and views.",
+        "Off Leash": "on"
+    },
+    {
+        "Location Name": "Docklands Park, Docklands",
+        "Description": "Features off-leash areas and proximity to the city, great for urban dogs.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Ruffey Lake Park, Doncaster",
+        "Description": "A large off-leash park with walking trails and open fields for dogs to roam.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Jells Park, Wheelers Hill",
+        "Description": "Off-leash areas in a park with beautiful walking trails around the lake.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Yarraville Gardens, Yarraville",
+        "Description": "An off-leash park that's popular with local dog walkers.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Fitzsimons Lane Park, Eltham",
+        "Description": "Features open areas for off-leash play and walking tracks.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Coburg Lake Reserve, Coburg",
+        "Description": "Offers a designated off-leash section along with scenic lakeside views.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Victoria Gardens, Prahran",
+        "Description": "A small, dog-friendly park with off-leash zones.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Caulfield Racecourse, Caulfield",
+        "Description": "Open to the public with off-leash areas for dogs to explore.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Montrose Dog Park, Montrose",
+        "Description": "An off-leash dog park with wide-open spaces and community events.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Cardinia Reservoir Park, Emerald",
+        "Description": "Off-leash areas with scenic surroundings and walking paths.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Maribyrnong River Trail, Maribyrnong",
+        "Description": "An off-leash walking trail with beautiful riverside views.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Yarra Park, East Melbourne",
+        "Description": "A large park with off-leash zones near the MCG.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Elsternwick Park, Brighton",
+        "Description": "Features open off-leash areas and shaded spots for relaxing with your dog.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Karkarook Park, Moorabbin",
+        "Description": "Offers off-leash sections and lakeside views for a peaceful outing.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Brimbank Park, Keilor East",
+        "Description": "A popular off-leash park with expansive areas and scenic views.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Green Gully Reserve, Keilor Downs",
+        "Description": "An off-leash area for dogs with open fields and picnic spots.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Jawbone Reserve, Williamstown",
+        "Description": "Offers dog-friendly off-leash areas by the water.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Eastern Beach Reserve, Geelong",
+        "Description": "A dog-friendly beach with designated off-leash areas and scenic ocean views.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Ballarat Botanical Gardens, Ballarat",
+        "Description": "While dogs must be on-leash, this park offers lovely garden walks for dog owners.",
+        "Off Leash": "on"
+    },
+    {
+        "Location Name": "Centennial Parklands, Sydney",
+        "Description": "One of Sydney\u2019s largest parks with multiple off-leash areas, popular for dog walking.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Sydney Park, St Peters",
+        "Description": "A vast off-leash park with open fields, pathways, and water features.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Glebe Foreshore Parks, Glebe",
+        "Description": "A series of parks with off-leash areas along the harbor foreshore.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Blackman Park, Lane Cove",
+        "Description": "A large open area with designated off-leash spaces for dogs.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Bicentennial Park, Homebush",
+        "Description": "Offers designated off-leash zones with open spaces and walking trails.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Blaxland Riverside Park, Sydney Olympic Park",
+        "Description": "An expansive park with scenic views and off-leash areas for dogs.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Balmoral Beach, Mosman",
+        "Description": "A dog-friendly beach where dogs can play off-leash in the sand.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Greenwich Baths, Greenwich",
+        "Description": "Dog-friendly with off-leash times, allowing dogs to play on the shore.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Manly Lagoon Park, Manly",
+        "Description": "Off-leash zones and water features for dogs to enjoy.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Arthur McElhone Reserve, Elizabeth Bay",
+        "Description": "A scenic park with off-leash areas, perfect for city dogs.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Cammeray Park, Cammeray",
+        "Description": "A spacious park with dedicated off-leash areas and walking paths.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Clifton Gardens, Mosman",
+        "Description": "A beachfront park where dogs can play off-leash in designated zones.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Leichhardt Park, Lilyfield",
+        "Description": "A large park with off-leash areas and beautiful views of the bay.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Elkington Park, Balmain",
+        "Description": "Dog-friendly with designated off-leash areas and scenic views.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Brays Bay Reserve, Rhodes",
+        "Description": "An off-leash park with scenic water views and open spaces for dogs.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Rushcutters Bay Park, Rushcutters Bay",
+        "Description": "Offers off-leash times, allowing dogs to roam freely.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Observatory Hill Park, Millers Point",
+        "Description": "Off-leash areas with amazing views of the Sydney Harbour Bridge.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Centennial Park, Moore Park",
+        "Description": "A huge park offering off-leash zones and walking trails for dogs.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Ballast Point Park, Birchgrove",
+        "Description": "A scenic park with dog-friendly off-leash areas and water views.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Waverton Park, Waverton",
+        "Description": "Off-leash zones for dogs with stunning views of the harbor.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Berry Island Reserve, Waverton",
+        "Description": "A dog-friendly park with off-leash zones and walking trails.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Rose Bay Beach, Rose Bay",
+        "Description": "A dog-friendly beach where dogs can run off-leash and swim.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Henley Park, Enfield",
+        "Description": "Off-leash areas where dogs can play in open spaces.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "St Leonards Park, North Sydney",
+        "Description": "Dog-friendly with open areas and off-leash zones.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Grasmere Reserve, Cremorne Point",
+        "Description": "An off-leash park with open spaces and scenic views.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Newcastle Beach, Newcastle",
+        "Description": "Dog-friendly beach with off-leash areas for dogs to swim and run.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Centennial Dog Park, Narrabeen",
+        "Description": "Offers large off-leash areas for dogs to run and play.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Foreshore Park, Newcastle",
+        "Description": "Large off-leash zones with scenic water views and walking paths.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Bondi to Bronte Walk, Bondi",
+        "Description": "Offers scenic ocean views with off-leash sections for dogs.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Redhead Beach, Redhead",
+        "Description": "A dog-friendly beach offering off-leash zones and space for running.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Bar Beach, Newcastle",
+        "Description": "Off-leash zones where dogs can enjoy the sand and water.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Nobbys Beach, Newcastle",
+        "Description": "A popular off-leash beach where dogs can swim and play.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Morialta Conservation Park, Woodforde",
+        "Description": "A scenic park with hiking trails and off-leash areas for dogs.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Belair National Park, Belair",
+        "Description": "Dog-friendly with off-leash areas, perfect for bushwalking with your dog.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Rymill Park, Adelaide",
+        "Description": "A beautiful park in the heart of Adelaide with designated off-leash areas.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Botanic Park, Adelaide",
+        "Description": "Large open spaces with off-leash zones, surrounded by scenic gardens.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Glenelg Beach, Glenelg",
+        "Description": "A popular off-leash beach where dogs can enjoy the sand and water.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Hazelwood Park, Burnside",
+        "Description": "A spacious park with off-leash areas for dogs to roam freely.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Semaphore Beach, Semaphore",
+        "Description": "Dog-friendly beach with off-leash zones where dogs can run and play.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Henley Beach, Henley Beach",
+        "Description": "Offers off-leash areas on the beach where dogs can swim and run.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Linear Park, Walkerville",
+        "Description": "A long park along the River Torrens with off-leash sections.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Thorndon Park Reserve, Paradise",
+        "Description": "Features off-leash areas and scenic walking trails for dogs.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Tusmore Park, Tusmore",
+        "Description": "Dog-friendly with off-leash areas, perfect for a picnic and play.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Elder Park, Adelaide",
+        "Description": "A central park along the River Torrens with designated off-leash zones.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Wittunga Botanic Garden, Blackwood",
+        "Description": "A dog-friendly park with off-leash areas surrounded by beautiful gardens.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Victoria Park, Adelaide",
+        "Description": "A large open space with designated off-leash areas and walking paths.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "O'Halloran Hill Recreation Park, O'Halloran Hill",
+        "Description": "Expansive park with off-leash sections and walking trails.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "West Beach, West Beach",
+        "Description": "Dog-friendly beach with off-leash areas for dogs to enjoy the water.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Aldinga Beach, Aldinga",
+        "Description": "An off-leash beach where dogs can run, swim, and enjoy the sand.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Brownhill Creek Recreation Park, Mitcham",
+        "Description": "A beautiful bushland setting with off-leash areas for dogs.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Onkaparinga River National Park, Noarlunga Downs",
+        "Description": "A natural park with off-leash zones and scenic river views.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Hallet Cove Conservation Park, Hallet Cove",
+        "Description": "Scenic coastal park with off-leash sections for dogs.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Stebonheath Park, Davoren Park",
+        "Description": "Offers off-leash zones and playgrounds, popular with dog owners.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Golden Grove Dog Park, Golden Grove",
+        "Description": "A popular off-leash dog park with open spaces for dogs to socialize.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Brighton Beach, Brighton",
+        "Description": "A dog-friendly beach where dogs can run off-leash and enjoy the water.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "South Terrace Dog Park, Adelaide",
+        "Description": "A dedicated off-leash dog park in the heart of the city.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Mount Barker Linear Trail, Mount Barker",
+        "Description": "A dog-friendly walking trail with off-leash sections for dogs.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Mitcham Reserve, Mitcham",
+        "Description": "A spacious park with designated off-leash areas and shaded spots.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Patawalonga Creek Reserve, Glenelg North",
+        "Description": "Dog-friendly with off-leash zones along the scenic creek.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Norwood Oval Park, Norwood",
+        "Description": "A dog-friendly park with off-leash areas and open fields.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "South Park Lands, Adelaide",
+        "Description": "A large off-leash park with plenty of space for dogs to play.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Vale Park Dog Park, Vale Park",
+        "Description": "Offers a large off-leash area with plenty of shade and open space.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Whiteman Park, Whiteman",
+        "Description": "A large park with off-leash areas and wide open spaces for dogs to play.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "South Beach, Fremantle",
+        "Description": "A popular dog beach with off-leash areas where dogs can enjoy the water.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Leighton Dog Beach, North Fremantle",
+        "Description": "A scenic beach with designated off-leash areas for dogs.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Peasholm Dog Beach, Scarborough",
+        "Description": "A dog-friendly beach with off-leash zones where dogs can run and swim.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Floreat Dog Beach, Floreat",
+        "Description": "An off-leash beach with plenty of space for dogs to roam freely.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Jackadder Lake Reserve, Woodlands",
+        "Description": "A scenic park with off-leash areas and walking paths for dogs.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Yokine Reserve, Yokine",
+        "Description": "A large park with dedicated off-leash zones and open spaces for dogs.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Hyde Park, Perth",
+        "Description": "A dog-friendly park with designated off-leash areas and scenic views.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Lake Monger, Leederville",
+        "Description": "Offers off-leash zones for dogs and scenic lakeside walking trails.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Point Walter Reserve, Bicton",
+        "Description": "Dog-friendly park with off-leash zones and access to the river.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Tomato Lake, Kewdale",
+        "Description": "A beautiful park with off-leash areas and plenty of space for dogs to explore.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Whitfords Dog Beach, Hillarys",
+        "Description": "A popular dog beach where dogs can run and swim off-leash.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Burns Beach, Burns Beach",
+        "Description": "A dog-friendly beach offering off-leash zones and scenic coastal views.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Applecross Foreshore, Applecross",
+        "Description": "A riverside park with off-leash areas where dogs can play and swim.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Bull Creek Reserve, Bull Creek",
+        "Description": "Dog-friendly park with off-leash areas and walking trails along the creek.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Kings Park, Perth",
+        "Description": "Offers on-leash areas only, but a great spot for scenic walks with your dog.",
+        "Off Leash": "on"
+    },
+    {
+        "Location Name": "Mosman Park, Mosman Park",
+        "Description": "A large park with off-leash sections for dogs to run and play.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Woodman Point, Coogee",
+        "Description": "A coastal park with off-leash areas for dogs to enjoy the beach.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Bayswater Riverside Gardens, Bayswater",
+        "Description": "A dog-friendly park with off-leash zones along the river.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Ashfield Flats, Ashfield",
+        "Description": "A large open space with off-leash areas, perfect for dogs to roam freely.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Canning River Regional Park, Wilson",
+        "Description": "A scenic park with off-leash zones for dogs along the river.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Trigg Dog Beach, Trigg",
+        "Description": "A popular off-leash beach for dogs to swim and run along the coast.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Perry Lakes Reserve, Floreat",
+        "Description": "Offers off-leash zones in a scenic park setting with lakeside views.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "South Perth Foreshore, South Perth",
+        "Description": "A dog-friendly park with off-leash zones and beautiful river views.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Matilda Bay Reserve, Crawley",
+        "Description": "Offers on-leash areas only, with scenic views along the Swan River.",
+        "Off Leash": "on"
+    },
+    {
+        "Location Name": "City Beach, City Beach",
+        "Description": "A popular dog-friendly beach with designated off-leash zones.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Bold Park, City Beach",
+        "Description": "A bushland park with off-leash areas and scenic walking trails.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Scarborough Beach, Scarborough",
+        "Description": "A famous beach offering off-leash areas for dogs to run and play.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Jorgensen Park, Kalamunda",
+        "Description": "A large off-leash park with plenty of space for dogs to explore.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "John Oldham Park, Perth",
+        "Description": "Offers off-leash areas and scenic walking paths for dog owners.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Neil Hawkins Park, Joondalup",
+        "Description": "A scenic park with off-leash areas for dogs and walking trails around the lake.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Herdsman Lake, Herdsman",
+        "Description": "Offers off-leash zones for dogs with scenic views around the lake.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Lake Gwelup Reserve, Gwelup",
+        "Description": "A dog-friendly park with off-leash areas and walking paths.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Floreat Beach, Floreat",
+        "Description": "A popular beach for dogs with designated off-leash zones.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Manning Park, Hamilton Hill",
+        "Description": "A spacious park with off-leash areas and scenic walking paths.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Rockingham Dog Beach, Rockingham",
+        "Description": "A dog-friendly beach with off-leash zones where dogs can swim and run.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Kwinana Beach, Kwinana",
+        "Description": "A dog-friendly beach offering off-leash areas and plenty of space.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Pinnaroo Valley Memorial Park, Padbury",
+        "Description": "A peaceful park with off-leash areas for dogs to explore.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Claremont Foreshore Reserve, Claremont",
+        "Description": "A riverside park with off-leash areas for dogs to play and swim.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Margaret River Dog Beach, Margaret River",
+        "Description": "A scenic dog-friendly beach with off-leash zones for dogs to enjoy the water.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Cottesloe Dog Beach, Cottesloe",
+        "Description": "A popular dog beach with off-leash areas for dogs to run and play.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Mandurah Dog Beach, Mandurah",
+        "Description": "A long stretch of beach with designated off-leash areas for dogs.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "East Point Reserve, Darwin",
+        "Description": "A large park with off-leash areas and scenic ocean views for dogs to enjoy.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Nightcliff Foreshore, Nightcliff",
+        "Description": "Dog-friendly with off-leash areas along the scenic coastline.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Casuarina Coastal Reserve, Casuarina",
+        "Description": "A popular off-leash beach and park for dogs with plenty of space to explore.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Lake Alexander, Darwin",
+        "Description": "A dog-friendly park with off-leash zones and lakeside views.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Bicentennial Park, Darwin",
+        "Description": "A beautiful park offering off-leash areas for dogs to roam freely.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Palmerston Dog Park, Palmerston",
+        "Description": "A large off-leash dog park with open spaces for dogs to socialize and play.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Marlow Lagoon Pet Park, Palmerston",
+        "Description": "A dedicated off-leash dog park with agility equipment for dogs to enjoy.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Rapid Creek Dog Park, Rapid Creek",
+        "Description": "A popular off-leash area with shaded spots and scenic walking paths.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Howard Springs Nature Park, Howard Springs",
+        "Description": "Offers on-leash areas only, surrounded by beautiful natural settings.",
+        "Off Leash": "on"
+    },
+    {
+        "Location Name": "Leanyer Recreation Park, Leanyer",
+        "Description": "A dog-friendly park with off-leash zones and scenic views.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Karama Dog Park, Karama",
+        "Description": "A spacious off-leash park with plenty of open space for dogs to play.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Holmes Jungle Nature Park, Knuckey Lagoon",
+        "Description": "Offers scenic bushwalking trails with off-leash areas for dogs to explore.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Wagait Beach, Wagait Beach",
+        "Description": "A beautiful off-leash beach where dogs can run freely along the shore.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Buffalo Creek, Lee Point",
+        "Description": "A dog-friendly beach offering off-leash areas for dogs to swim and play.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "McMinns Lagoon Reserve, McMinns Lagoon",
+        "Description": "A peaceful reserve with on-leash areas and scenic walking paths around the lagoon.",
+        "Off Leash": "on"
+    },
+    {
+        "Location Name": "Litchfield National Park, Litchfield",
+        "Description": "Dogs are welcome on-leash only, with stunning waterfalls and natural scenery.",
+        "Off Leash": "on"
+    },
+    {
+        "Location Name": "East Arm Wharf, East Arm",
+        "Description": "Dog-friendly with off-leash areas near the waterfront for dogs to explore.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Tumbling Waters, Berry Springs",
+        "Description": "Offers on-leash areas only, with natural walking paths and scenic views.",
+        "Off Leash": "on"
+    },
+    {
+        "Location Name": "Girraween Dog Park, Girraween",
+        "Description": "A spacious off-leash park with open areas for dogs to run and play.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Berry Springs Nature Park, Berry Springs",
+        "Description": "On-leash only, but offers beautiful natural surroundings for walks with your dog.",
+        "Off Leash": "on"
+    },
+    {
+        "Location Name": "Wagaman Park, Wagaman",
+        "Description": "A local park with off-leash areas where dogs can enjoy the open space.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Darwin Waterfront, Darwin",
+        "Description": "Dog-friendly area with on-leash sections and plenty of walking paths.",
+        "Off Leash": "on"
+    },
+    {
+        "Location Name": "Mindil Beach, Darwin",
+        "Description": "A popular beach with off-leash zones where dogs can run and swim.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Howard Springs Dog Park, Howard Springs",
+        "Description": "Offers off-leash areas with shaded spots and plenty of space for dogs to play.",
+        "Off Leash": "off"
+    },
+    {
+        "Location Name": "Knuckey Lagoon Recreation Reserve, Knuckey Lagoon",
+        "Description": "A peaceful off-leash park with plenty of space for dogs to roam.",
+        "Off Leash": "off"
+    }
+]
