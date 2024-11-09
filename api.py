@@ -7,8 +7,8 @@ app = Flask(__name__)
 # Define the connection string for SQL Server
 connection_string = (
     "Driver={ODBC Driver 17 for SQL Server};"
-    "Server=DESKTOP-9UFQHR5\\WOOFYASERVER;"  # Replace with your server name
-    "Database=events_db;"                     # Replace with your database name
+    "Server=DESKTOP-9UFQHR5\\WOOFYASERVER;"  # Update with your server name
+    "Database=events_db;"                     # Update with your database name
     "Trusted_Connection=yes;"                 # Use Windows Authentication (no username and password required)
 )
 
@@ -171,6 +171,6 @@ def delete_event(event_id):
     except Exception as e:
         return jsonify({"error": str(e)}), 500
 
-# Run the Flask app on port 5001
+# Run the Flask app on port 5000
 if __name__ == '__main__':
     app.run(debug=True)
